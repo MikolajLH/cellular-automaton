@@ -1,0 +1,21 @@
+# CMake build folders
+/build/
+/out/
+/CMakeFiles/
+/CMakeCache.txt
+/*.cmake
+/Makefile
+/.vs
+
+# Binaries
+*.exe
+*.dll
+*.lib
+*.so
+*.a
+
+# VSCode, CLion, etc.
+.vscode/
+.idea/
+*.user
+*.suo
